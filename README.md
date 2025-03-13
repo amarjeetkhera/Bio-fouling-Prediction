@@ -1,2 +1,2 @@
 # Bio-fouling-Prediction
-A project aimed at biofouling prediction on ships
+This project is aimed at building a predictive model for bio-fouling on ship hulls. 
