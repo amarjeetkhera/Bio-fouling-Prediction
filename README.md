@@ -1,2 +1,4 @@
 # Bio-fouling-Prediction
+Biofouling or biological fouling is the accumulation of microorganisms, plants, algae, or small animals where it is not wanted on surfaces such as ship and submarine hulls, devices such as water inlets, pipework, grates, ponds, and rivers that cause degradation to the primary purpose of that item. Such accumulation is referred to as epibiosis when the host surface is another organism and the relationship is not parasitic. Since biofouling can occur almost anywhere water is present, biofouling poses risks to a wide variety of objects such as boat hulls and equipment, medical devices and membranes, as well as to entire industries, such as paper manufacturing, food processing, underwater construction, and desalination plants. (Source: https://en.wikipedia.org/wiki/Biofouling)
+
 This project is aimed at building a predictive model for bio-fouling on ship hulls. 
